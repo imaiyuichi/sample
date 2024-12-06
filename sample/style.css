@@ -1,0 +1,13 @@
+ul,
+li {
+	list-style-type: none;
+}
+
+li::first-letter {
+	font-size: 200%;
+	color: red;
+}
+/* 
+li:nth-of-type(2) {
+  color: red;
+} */
